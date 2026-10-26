@@ -13,7 +13,7 @@ This repository provides:
 
 The scanner was executed in production to verify remediation. All detected PHP runtimes passed verification with zero vulnerabilities:
 
-![PHP2Shell Clean Verification Proof](patch.png)
+![PHP2Shell Clean Verification Proof](image.png)
 
 ---
 
